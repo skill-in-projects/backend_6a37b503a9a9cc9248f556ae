@@ -21,3 +21,5 @@ The backend can use a Google API key provided via the **GOOGLE_API_KEY** environ
 ## Deployment
 
 This backend is configured for Railway deployment using nixpacks.toml.
+
+Warning: Do not expose any secret (e.g. DB connection string) in the README file!
